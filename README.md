@@ -13,7 +13,5 @@
   
 # 🖼️
 <div align="center">
-<img src="/Images/Image.png" width="400px"</img> 
+![Image](https://user-images.githubusercontent.com/103209586/230157048-b7c3ff9e-fbba-421e-b11d-cf81b72f2bef.png)
 </div>
-
-
