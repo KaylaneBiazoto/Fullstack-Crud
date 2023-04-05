@@ -12,7 +12,8 @@
 </ul>
   
 # 🖼️
-
-![ScreenShot](https://github.com/kaylanebiazoto/Fullstack-Crud/main/Images/Image.png)
+<div align="center">
+<img src="/Images/Image.png" width="400px"</img> 
+</div>
 
 
