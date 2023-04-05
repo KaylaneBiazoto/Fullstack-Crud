@@ -12,6 +12,4 @@
 </ul>
   
 # 🖼️
-<div align="center">
 ![Image](https://user-images.githubusercontent.com/103209586/230157048-b7c3ff9e-fbba-421e-b11d-cf81b72f2bef.png)
-</div>
